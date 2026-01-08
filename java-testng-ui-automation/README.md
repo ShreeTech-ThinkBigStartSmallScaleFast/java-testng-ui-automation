@@ -2,8 +2,6 @@
 
 A clean and scalable Java Selenium TestNG automation framework designed for UI test automation. This framework supports cross-browser execution (Chrome/Firefox), page object model structure, reporting, logging, and CI/CD compatibility.
 
----
-
 ## **Tech Stack**
 
 * **Java 17+**
